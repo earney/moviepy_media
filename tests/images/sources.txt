@@ -2,5 +2,5 @@ afterimage.png => https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Afte
 matplotlib_demo1.png => http://matplotlib.org/_images/barh_demo.png
 python_logo.png => https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/260px-Python_logo_and_wordmark.svg.png
 pigs_in_a_polka.gif => http://i.imgur.com/Fo2BxBK.gif
-
+vacation_2017.jpg => earney's personal vacation pic from 2017.
 
