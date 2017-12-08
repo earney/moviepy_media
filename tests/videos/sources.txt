@@ -1,3 +1,4 @@
 big_buck_bunny.mkv => https://www.youtube.com/watch?v=t4gjl-uwUHc
 big_buck_bunny_432_433.webm => 4:32 to 4:33 of big_buck_bunny.mkv
 big_buck_bunny_0_30.webm => 0:00 to 0:30 of big_buck_bunny.mkv
+ficus_vertical.mp4 => personal video with rotation metadata from @cvn 2017
